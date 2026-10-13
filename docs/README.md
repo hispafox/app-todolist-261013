@@ -3,3 +3,4 @@
 Este directorio contiene el análisis completo del proyecto de la aplicación de tareas:
 
 - [Análisis completo de AppTodoList](./analisis-completo-app-todolist.md)
+- [Herramientas del MCP de GitHub](./herramientas-mcp-github.md)

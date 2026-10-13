@@ -1,6 +1,6 @@
 # Análisis completo de AppTodoList
 
-> **Estado del documento:** especificación propuesta para orientar el desarrollo; no describe funcionalidades ya implementadas. El repositorio contiene actualmente documentación y laboratorios, no el producto ejecutable. Los requisitos con prioridad **MVP** son la línea base sugerida; las decisiones señaladas como pendientes deben confirmarse antes de cerrar contratos de producción.
+> **Estado del documento:** especificación funcional y técnica con el alcance propuesto y criterios de evolución; no es un inventario exacto del estado del código. La implementación inicial de clase cubre el alcance funcional RF-01–RF-12 en `src/`. Las metas que requieren mediciones (rendimiento, LCP, compatibilidad de navegadores, auditoría WCAG y cobertura) necesitan evidencia específica antes de considerar el sistema listo para producción. Las decisiones pendientes siguen requiriendo confirmación antes de desplegarlo en una red no confiable.
 
 ## 1. Visión general
 
